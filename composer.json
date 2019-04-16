@@ -1,10 +1,6 @@
 {
   "name": "anca-pop/hello-world",
-  "type": "library",
   "description": "My first try to add to packagist",
-  "keywords": ["relevant","tags","go","here"],
-  "homepage": "https://yourcompany.com",
-  "license": "MIT",
   "authors": [
     {
       "name": "Anca Pop",
