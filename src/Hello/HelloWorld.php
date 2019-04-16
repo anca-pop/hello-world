@@ -6,4 +6,9 @@ class HelloWorld
 	{
 		echo 'Hello';
 	}
+
+	public function sayGoodBye()
+	{
+		echo 'Bye';
+	}
 }
