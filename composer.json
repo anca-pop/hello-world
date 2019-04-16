@@ -7,5 +7,7 @@
       "email": "xyz@abc.com",
       "role": "Developer"
     }
-  ]
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
